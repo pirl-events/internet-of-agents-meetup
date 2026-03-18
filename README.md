@@ -1,5 +1,5 @@
 # Internet of Agents Meetup
-A quarterly gathering of practitioners in Paris from industry &amp; academia for technical deep dives &amp; REX on building and deploying agentic AI.
+A quarterly gathering of practitioners in Paris from industry and academia, for technical deep dives and REX on building and deploying agentic AI.
 
 ## Editions
 
