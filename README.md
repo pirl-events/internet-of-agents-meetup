@@ -7,4 +7,4 @@ A quarterly gathering of practitioners in Paris from industry &amp; academia for
 |--------------|-----------------------------------------------------------------------------------------|----------------------------|
 | April 2026   | Agentic AI integration in enterprises : technical & organisational vision               | [→ View](./2026-april/)    |
 | November 2025| Empowering lines of business to get started with building & deploying multi-agents apps | [→ View](./2025-november/) |
-| July 2025    | Inter-agents collaboration & agents building solutions                                  | [→ View]([./2025-july/](https://github.com/pirl-events/internet-of-agents-meetup/tree/main/07-2025))|
+| July 2025    | Inter-agents collaboration & agents building solutions                                  | [→ View](./2025-07)|
